@@ -14,7 +14,9 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-https://github.com/yosub-uta/codepath-prework/blob/main/walkthrough.gif
+<p float="middle">
+    <img src="https://github.com/yosub-uta/codepath-prework/blob/main/walkthrough.gif" width="250">
+</p>
 
 ## App Brainstorming (Step 4)
 
